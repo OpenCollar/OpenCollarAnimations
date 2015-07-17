@@ -1,20 +1,4 @@
-## OpenCollar Animations
+## OpenCollar Animations [▶ Redirect](https://github.com/OpenCollar/opencollar/tree/master/res/anims "My source has a new home!")
 
-###### In this place we are going to collaborate on animations.
 
-For collaboration native QAvimator files (AVM) are preferred.
-The final format for animations will be Biovision Hierarchy (BVH).
-
-Free software to create animations:
-* [Blender](http://www.blender.org/)
-* [QAvimator](http://qavimator.org/)
-* [DAZ3D](http://www.daz3d.com/)
-
-Free software for in-depth BVH Editing:
-* [bvhacker](http://www.bvhacker.com/)
-
-Tutorials:
-* Qavimator for Beginners
-  * [Part 1](http://www.youtube.com/watch?v=pOulVwCePxw)
-  * [Part 2](http://www.youtube.com/watch?v=GQZDG0Wmcwc)
-  
+This repository is now obsolete. Its files and history have been merged into the [OpenCollar upstream](https://github.com/OpenCollar/opencollar).
